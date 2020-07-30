@@ -4,8 +4,8 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "build": "build-storybook",
-    "dev": "start-storybook"
+    "build": "build-storybook -s public",
+    "dev": "start-storybook -s public"
   },
   "devDependencies": {
     "@storybook/react": "^6.0.0-rc.5"
