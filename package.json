@@ -1,0 +1,13 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "build": "build-storybook",
+    "dev": "start-storybook"
+  },
+  "devDependencies": {
+    "@storybook/react": "^6.0.0-rc.5"
+  }
+}
