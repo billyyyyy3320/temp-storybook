@@ -8,6 +8,6 @@
     "dev": "start-storybook -s public"
   },
   "devDependencies": {
-    "@storybook/react": "^6.0.0-rc.5"
+    "@storybook/react": "^6.0.0-rc.25"
   }
 }
